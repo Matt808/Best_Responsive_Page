@@ -14,7 +14,7 @@ body {
 .narrow-col { 
 	height: 100%;
 	width: 20%;  
-	display: flex
+	display: block;
 }
 
 
