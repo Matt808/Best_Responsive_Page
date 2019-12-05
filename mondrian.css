@@ -12,11 +12,11 @@ body {
 }
 
 .narrow-col { 
-    display: block;
 	height: 100%;
 	width: 20%;  
 	display: flex
 }
+
 
 
 .box-1 { 
