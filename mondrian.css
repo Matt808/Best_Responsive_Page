@@ -11,20 +11,13 @@ body {
 	height:100%;
 }
 
-.narrow-col-1 { 
+.narrow-col { 
     display: block;
 	height: 100%;
 	width: 20%;  
 	display: block
 }
 
-
-.narrow-col-2 { 
-    display: block;
-	height: 100%;
-	width: 20%;  
-	display: block
-}
 
 .box-1 { 
 	height: calc(100%/2); 
