@@ -14,7 +14,7 @@ body {
 .narrow-col { 
 	height: 100%;
 	width: 20%;  
-	display: flex;
+	display: block;
 }
 
 
@@ -22,14 +22,14 @@ body {
 .box-1 { 
 	height: calc(100%/2); 
 	width: 100%;
-	display: block;
+	display: flex;
 }
 
 .box-2 {
 	/* The calc function is used for calculation. Its helpful for dividing different properties */
 	height: calc(100% / 3);
 	width: 100%;  
-	display: block;
+	display: flex;
 } 
 
 
