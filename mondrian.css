@@ -11,7 +11,15 @@ body {
 	height:100%;
 }
 
-.narrow-col { 
+.narrow-col-1 { 
+    display: block;
+	height: 100%;
+	width: 20%;  
+	display: block
+}
+
+
+.narrow-col-2 { 
     display: block;
 	height: 100%;
 	width: 20%;  
