@@ -7,17 +7,23 @@ body {
 
 .wide-col {  
 	display: flex;
-	width: 65%; 
+	width: 60%; 
 	height:100%;
 }
 
 .narrow-col { 
     display: block;
 	height: 100%;
-	width: 35%; 
+	width: 20%;  
+	display: block
 }
 
-.box {
+.box-1 { 
+	height: calc(100%/2); 
+	width: 100%
+}
+
+.box-2 {
 	/* The calc function is used for calculation. Its helpful for dividing different properties */
 	height: calc(100% / 3);
 	width: 100%; 
